@@ -1,11 +1,3 @@
-DaftPunk Soundboard
-=====
-
-#### Deliverable
-
-![Image](http://i.imgur.com/e2h6cBd.png)
-
-
 
 ## Introduction
 
